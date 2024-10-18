@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=20D757&width=435&separator=%3C&lines=console.log(%22Hello+world!%22);%3Cprint(%22Hello+world!%22))](https://git.io/typing-svg)
 
-![Google Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
+![Google Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/refs/heads/master/dino.gif)
 
 <!--
 **WilliamsjAlva/WilliamsjAlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
