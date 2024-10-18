@@ -4,7 +4,6 @@ I'm a **Web Programming Student** 👨‍💻 with a deep passion for **Technolo
 
 ### 🌱 What I’m working on:
 - Building cool web applications with the latest technologies 🛠️
-- Exploring game development and interactive design 🎮✨
 - Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨🖌️
 
 ### 🔍 What I’m interested in:
