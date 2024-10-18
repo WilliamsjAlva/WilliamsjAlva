@@ -1,6 +1,20 @@
-## Hi there 👋
+# 👋 Hi there! I'm Williams Briceno
 
-🧰 Tech Stack!
+I'm a **Web Programming Student** 👨‍💻 with a deep passion for **Technology**, **Video Games** 🎮, and **Creative Design** 🎨. I’m constantly seeking out new learning opportunities and challenges to enhance my skills and keep growing in the ever-evolving digital world. 🚀
+
+### 🌱 What I’m working on:
+- Building cool web applications with the latest technologies 🛠️
+- Exploring game development and interactive design 🎮✨
+- Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨🖌️
+
+### 🔍 What I’m interested in:
+- **Web Development** – from front-end magic ✨ to back-end wizardry 🧙‍♂️
+- **Tech Trends** – staying up-to-date with the latest innovations and best practices 🔍🆕
+
+### 📫 Let’s connect!
+I'm always open to collaborations or just having a chat about tech and design. Feel free to reach out!
+
+# 🧰 Tech Stack!
 
 <img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
