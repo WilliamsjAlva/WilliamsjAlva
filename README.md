@@ -5,6 +5,8 @@ I'm a **Web Programming Student** 👨‍💻 with a deep passion for **Technolo
 ### 🌱 What I’m working on:
 - Building cool web applications with the latest technologies 🛠️
 - Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨🖌️
+- 3D Modeling and Animation – exploring the world of 3D assets and animation for games and media 🌀✨
+- Graphic Design – mastering tools like **Photoshop** and **Illustrator** to create impactful visuals 🖼️🖌️
 
 ### 🔍 What I’m interested in:
 - **Web Development** – from front-end magic ✨ to back-end wizardry 🧙‍♂️
