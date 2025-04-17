@@ -5,18 +5,6 @@
 # 👋 Hi there! I'm Williams Briceño
 I'm a **Web Programmer** with a deep passion for **Technology**, **Video Games**, and **Creative Design**. I’m constantly seeking out new learning opportunities and challenges to enhance my skills and keep growing in the ever-evolving digital world.
 
-### 🌱 What I’m working on:
-- Building cool web applications with the latest technologies 🛠️
-- Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨
-- 3D Modeling and Animation – exploring the world of 3D assets and animation for games and media 
-- Graphic Design – mastering tools like **Photoshop** and **Illustrator** to create impactful visuals 🖼️
-
-### 🔍 What I'm learning right now:
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-### 📫 Let’s connect!
-I'm always open to collaborations or just having a chat about tech and design. Feel free to reach out!
-
 # 🧰 Tech Stack!
 
 
@@ -39,6 +27,18 @@ I'm always open to collaborations or just having a chat about tech and design. F
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔍 What I'm learning right now:
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+### 🌱 What I’m working on:
+- Building cool web applications with the latest technologies 🛠️
+- Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨
+- 3D Modeling and Animation – exploring the world of 3D assets and animation for games and media 
+- Graphic Design – mastering tools like **Photoshop** and **Illustrator** to create impactful visuals 🖼️
+
+### 📫 Let’s connect!
+I'm always open to collaborations or just having a chat about tech and design. Feel free to reach out!
 
 [![Williams GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WilliamsjAlva&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
