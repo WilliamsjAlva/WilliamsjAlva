@@ -1,20 +1,18 @@
 ![Google Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/refs/heads/master/dino.gif)
 
-# 👋 Hi there! I'm Williams Briceno
 
-<hr style="border: 1px solid gray;">
 
-I'm a **Web Programming Student** 👨‍💻 with a deep passion for **Technology**, **Video Games** 🎮, and **Creative Design** 🎨. I’m constantly seeking out new learning opportunities and challenges to enhance my skills and keep growing in the ever-evolving digital world. 🚀
+# 👋 Hi there! I'm Williams Briceño
+I'm a **Web Programmer** with a deep passion for **Technology**, **Video Games**, and **Creative Design**. I’m constantly seeking out new learning opportunities and challenges to enhance my skills and keep growing in the ever-evolving digital world.
 
 ### 🌱 What I’m working on:
 - Building cool web applications with the latest technologies 🛠️
-- Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨🖌️
-- 3D Modeling and Animation – exploring the world of 3D assets and animation for games and media 🌀✨
-- Graphic Design – mastering tools like **Photoshop** and **Illustrator** to create impactful visuals 🖼️🖌️
+- Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨
+- 3D Modeling and Animation – exploring the world of 3D assets and animation for games and media 
+- Graphic Design – mastering tools like **Photoshop** and **Illustrator** to create impactful visuals 🖼️
 
-### 🔍 What I’m interested in:
-- **Web Development** – from front-end magic ✨ to back-end wizardry 🧙‍♂️
-- **Tech Trends** – staying up-to-date with the latest innovations and best practices 🔍🆕
+### 🔍 What I'm learning right now:
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### 📫 Let’s connect!
 I'm always open to collaborations or just having a chat about tech and design. Feel free to reach out!
