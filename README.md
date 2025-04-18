@@ -2,8 +2,8 @@
 
 
 
-# 👋 Hi there! I'm Williams Briceño
-I'm a **Web Programmer** with a deep passion for **Technology**, **Video Games**, and **Creative Design**. I’m constantly seeking out new learning opportunities and challenges to enhance my skills and keep growing in the ever-evolving digital world.
+# 👋 Sup, I'm Williams Briceño
+I'm your **Junior Web Programmer** with a deep passion for **Technology**, **Video Games**, and **Creative Design**. I’m constantly seeking out new learning opportunities and challenges to enhance my skills and keep growing in the ever-evolving digital world.
 
 # 🧰 Tech Stack!
 
