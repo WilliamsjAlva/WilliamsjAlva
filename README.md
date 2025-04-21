@@ -31,6 +31,10 @@ I'm your **Junior Web Programmer** with a deep passion for **Technology**, **Vid
 ### 🔍 What I'm learning right now:
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
+### 🏆Certificates and Recognitions:
+
+- Lexpin Full-Stack Web Programming Course Certificate
+
 ### 🌱 What I’m working on:
 - Building cool web applications with the latest technologies 🛠️
 - Learning more about UI/UX to make beautiful and user-friendly interfaces 🎨
