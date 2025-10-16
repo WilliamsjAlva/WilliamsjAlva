@@ -30,7 +30,7 @@ I'm your **Junior Web Programmer** with a deep passion for **Technology**, **Vid
 
 ### 🔍 What I'm learning right now:
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)
 
 ### 🏆Certificates and Recognitions:
 
